@@ -5,6 +5,8 @@
 **gamepad setting's source code is included too**
 
 
+![](https://github.com/mul83rry/GamePad/blob/main/manager.PNG)
+![](https://github.com/mul83rry/GamePad/blob/main/input.PNG)
 
 
 *some example*
