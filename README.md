@@ -9,7 +9,9 @@
 
 *some example*
 
-```gamePad.Button1Down = () => { Debug.Log("Button1 Down"); };```
+```javascript
+gamePad.Button1Down = () => { Debug.Log("Button1 Down"); };
+```
 
 ```javascript
 
