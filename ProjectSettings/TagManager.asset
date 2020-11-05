@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Shadow
+  - FxTemporaire
+  - Box_UpgradeWeapon
+  - Box_Health:1
+  - Box_Health:2
+  - Box_Health:3
+  - Box_Health:5
+  - Box_Health:10
+  - Box_Health:30
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Group1
+  - Group2
+  - Group3
+  - Group4
+  - Obstacle
+  - 
+  - Tile
+  - Ground
+  - Water
+  - Bullet
+  - Bush
+  - 
+  - Box
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - Hidden
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

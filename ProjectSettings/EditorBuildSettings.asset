@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Main Menu.unity
+    guid: 95c8593ef35023f47be68f4e6f261c40
+  - enabled: 1
+    path: Assets/MuGamePad/Scenes/Gamepad Setting.unity
+    guid: 58c4131a085abcd49a3b57590d870791
+  - enabled: 1
+    path: Assets/Scenes/Garage.unity
+    guid: 154c5b2c3e08d28418ffa78bf349637b
+  - enabled: 1
+    path: Assets/Scenes/Select Tank _Remove.unity
+    guid: 0cb6515e74f9eea47806278a63d67848
+  - enabled: 1
+    path: Assets/Scenes/Classic Mode Join Player.unity
+    guid: 01ac2e6472c0dda45b7ba47ad98bb199
+  - enabled: 1
+    path: Assets/Scenes/Classic Level 1.unity
+    guid: cf7a6f053355f9545ba8d62607be8d4a
+  m_configObjects: {}
